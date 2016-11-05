@@ -1,0 +1,11 @@
+class rest
+  attr name, location, website, .....
+
+  class menu
+    dishes, special offers,
+
+  class dish
+    name, price, review, properties{gluten free : vegan : etx}, photos, label
+
+  class review
+    comment, rating
